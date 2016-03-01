@@ -44,9 +44,11 @@ main .right {
 footer .left {
   float: left;
   width: 570px;
+  position: relative;
 }
 
 footer .sitemap {
   float: right;
   width: 285px;
+  position: relative;
 }
